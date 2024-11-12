@@ -22,6 +22,7 @@ void displayCharityList(string charities[], double totals[], int n) {
         cout << charities[i] << ": $" << totals[i] << endl;
     }
 }
+//this is insherah gul new work
 
 int main() {
     string charities_name[3];
